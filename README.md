@@ -1,7 +1,5 @@
 # Music-Web-Application
 
-Name of the Project: 	 Music Web Application
-
 Description of the Project:
 In this web application songs can be uploaded, shared, and can enjoy hearing them on website. User can access all songs shared from different uploaders. An Uploader can upload songs and share it with users. A User can search the songs using title search criteria and can view the details of each song like singer, Song URL, title.
 
